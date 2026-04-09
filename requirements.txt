@@ -1,0 +1,7 @@
+streamlit
+groq
+reportlab
+pandas
+plotly>=5.20.0
+openpyxl
+requests
